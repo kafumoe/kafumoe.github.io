@@ -31,7 +31,7 @@ anchors = "on"
 author = "Catry"
 
 # Put all your custom variables here
-list_pages = true
+#list_pages = true
 
 header_nav = [
   { url = "/", name_en = "/home/" },
