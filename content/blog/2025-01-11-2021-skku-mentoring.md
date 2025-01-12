@@ -1,5 +1,7 @@
 +++
 title = "2021 성균관대와 함께하는 진로 멘토링"
+date = 2021-11-20T14:00:00
+authors = ["Catry"]
 [taxonomies]
 tags = ["skku", "mentoring", "2021"]
 [extra]

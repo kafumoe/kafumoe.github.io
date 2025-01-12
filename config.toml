@@ -43,3 +43,6 @@ default_theme = "light"
 display_author = true
 toc = true
 twitter_card = true
+
+footer_content_license = "Creative Commons Attribution 4.0 International"
+footer_content_license_link = "https://creativecommons.org/licenses/by/4.0/"

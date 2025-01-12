@@ -1,5 +1,7 @@
 +++
 title = "RFID Mifare Classic 공격 방법 및 카드 복제"
+date = 2023-10-23
+authors = ["is07king", "Catry"]
 [taxonomies]
 tags = ["RFID Mifare Classic", "2023", "정보보호영재교육원", "project", "hacking", "report"]
 [extra]
