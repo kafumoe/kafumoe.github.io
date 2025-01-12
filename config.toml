@@ -44,5 +44,5 @@ display_author = true
 toc = true
 twitter_card = true
 
-footer_content_license = "Creative Commons Attribution 4.0 International"
-footer_content_license_link = "https://creativecommons.org/licenses/by/4.0/"
+footer_content_license = "CC BY-NC-SA 2.0 KR"
+footer_content_license_link = "https://creativecommons.org/licenses/by-nc-sa/2.0/kr/"
