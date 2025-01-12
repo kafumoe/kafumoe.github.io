@@ -6,8 +6,6 @@ tags = ["RFID Mifare Classic", "2023", "정보보호영재교육원", "project",
 toc = true
 +++
 
-<br/>
-
 # 보고서 목적
 
   최근 IoT가 발전하면서, 개폐 잠금장치에 출입키 카드를 이용하면 자동으로 문이 열리는 시대에 들어섰다. 이러한 카드들은 RFID(Radio-Frequency Identification) 기술을 사용하며 전 세계 시장의 80% 이상을 점유하고 있는 NXP사의 Mifare 태그가 적용되어 있다. Mifare 태그 기반 RFID 태그 중 Mifare Classic 태그는 하드웨어적 연산이 제한적인 저가용 태그로 국내외 간단한 출입 통제와 교통카드 등 다양한 용도로 사용된다.
