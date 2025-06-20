@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - example</title>
+    <link href="https://kafu.dev/tags/example/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://kafu.dev"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-01-04T00:00:00+00:00</updated>
+    <id>https://kafu.dev/tags/example/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Post Example</title>
+        <published>2023-01-04T00:00:00+00:00</published>
+        <updated>2023-01-04T00:00:00+00:00</updated>
+        <author>
+          <name>Catry</name>
+        </author>
+        <link rel="alternate" href="https://kafu.dev/blog/post-example/" type="text/html"/>
+        <id>https://kafu.dev/blog/post-example/</id>
+        
+        <content type="html">&lt;p&gt;이 포스트는 테스트입니다.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

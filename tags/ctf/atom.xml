@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - ctf</title>
+    <link href="https://kafu.dev/tags/ctf/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://kafu.dev"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-10-07T00:00:00+00:00</updated>
+    <id>https://kafu.dev/tags/ctf/atom.xml</id>
+    <entry xml:lang="en">
+        <title>2024 FIESTA writeup</title>
+        <published>2024-10-07T00:00:00+00:00</published>
+        <updated>2024-10-07T00:00:00+00:00</updated>
+        <author>
+          <name>Catry</name>
+        </author>
+        <link rel="alternate" href="https://kafu.dev/blog/2024-fiesta/" type="text/html"/>
+        <id>https://kafu.dev/blog/2024-fiesta/</id>
+        
+        <content type="html">&lt;p&gt;2025년이 되고나서 이제야 라이트업 관련 글을 써보게 되었습니다.&lt;&#x2F;p&gt;
+&lt;p&gt;물론 제가 풀고 기억나는 문제 풀이 위주로 작성합니다.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;sinario-s-3-1&quot;&gt;시나리오 S-3-1&lt;&#x2F;h3&gt;
+&lt;p&gt;악성 &lt;code&gt;base.apk&lt;&#x2F;code&gt;가 있는 폴더 이름이 곧 flag 값인 문제였습니다.&lt;&#x2F;p&gt;
+&lt;p&gt;userdata.img.zip 압축해제 한 후에 FTK Imager로 userdata.img 파일을 열어서 설치한 앱들을 확인합니다.&lt;&#x2F;p&gt;
+&lt;div &gt;
+  &lt;img src=&quot;&amp;#x2F;2024-fiesta-01.png&quot; alt=&quot;시나리오 S-3-1 사진&quot;&gt;
+  
+&lt;&#x2F;div&gt;
+&lt;ul&gt;
+&lt;li&gt;팁: flag는 악성 앱의 base.apk가 위치한 디렉토리(PATH)이고, 이미지가 제공하는 파일 시스템의 시작 Directory를 ‘&#x2F;’(Root Directory)로 표시함.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;악성 앱인 &lt;code&gt;base.apk&lt;&#x2F;code&gt;의 위치임으로, &lt;code&gt;base.apk&lt;&#x2F;code&gt;가 들어가 있는 폴더들로 찾아냈습니다.&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;txt&quot; style=&quot;background-color:#282828;color:#fdf4c1aa;&quot; class=&quot;language-txt &quot;&gt;&lt;code class=&quot;language-txt&quot; data-lang=&quot;txt&quot;&gt;&lt;span&gt;&#x2F;app&#x2F;~~rrdAAE9SiSKltgpBnW_FwA==&#x2F;com.simplemobiletools.notes.pro-mL_UcEOVxaoxPoF6xI20FQ==
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span&gt;&#x2F;app&#x2F;~~5Le_Z5PaiCzb2G-6cp2QEQ==&#x2F;com.darkempire78.opencalculator-P8MQfBWzR7sspoPRY5uWOQ==
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span&gt;&#x2F;app&#x2F;~~Ta2I_Ey8SINy_zOvKquX2A==&#x2F;com.a.weather-rngH_0aMOfEpM0T9CeBeig==
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;그러나 3가지의 &lt;code&gt;base.apk&lt;&#x2F;code&gt;가 존재함으로 악성인 것을 걸려야 하는데, VirusTotal 힘을 빌려서 간략하게 확인했습니다.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.virustotal.com&#x2F;gui&#x2F;file&#x2F;5b47f40cf7c82cb5c7086f63566e13d8040141f523bcc1e4e1d6cfe3e1a16689&#x2F;details&quot;&gt;https:&#x2F;&#x2F;www.virustotal.com&#x2F;gui&#x2F;file&#x2F;5b47f40cf7c82cb5c7086f63566e13d8040141f523bcc1e4e1d6cfe3e1a16689&#x2F;details&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;세 번째 앱이 40개 중에 1개로 악성으로 잡혀서 &lt;code&gt;&#x2F;app&#x2F;~~Ta2I_Ey8SINy_zOvKquX2A==&#x2F;com.a.weather-rngH_0aMOfEpM0T9CeBeig==&lt;&#x2F;code&gt;로 확인했습니다.&lt;&#x2F;p&gt;
+&lt;p&gt;FLAG: &lt;strong&gt;FIESTA{&#x2F;app&#x2F;~~Ta2I_Ey8SINy_zOvKquX2A==&#x2F;com.a.weather-rngH_0aMOfEpM0T9CeBeig==}&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;teugbbyeomunje-5&quot;&gt;특별문제 5&lt;&#x2F;h3&gt;
+&lt;p&gt;이 문제에서는 AI의 Prompt를 활용하여 FLAG 얻어오는 문제입니다. 특히나 제가 5분만에 문제를 풀어서 기억나는 문제입니다. ㅋㅋㅋ&lt;&#x2F;p&gt;
+&lt;div &gt;
+  &lt;img src=&quot;&amp;#x2F;2024-fiesta-02.png&quot; alt=&quot;특별문제 5&quot;&gt;
+  
+&lt;&#x2F;div&gt;
+&lt;p&gt;환경 변수에 저장되어 있는 flag 변수를 가지고 오는 방법이 필요합니다.
+이 과정 중에서는 1-day인 &lt;strong&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;nvd.nist.gov&#x2F;vuln&#x2F;detail&#x2F;CVE-2023-29374&quot;&gt;CVE-2023-29374&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; 활용하면, 바로 flag를 가지고 올 수 있습니다.&lt;&#x2F;p&gt;
+&lt;p&gt;FLAG: &lt;strong&gt;FIESTA{efbed7ab20801d732e6964be653729df2f4b660bb140d09615f1417948c59e71}&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;더 문제를 푼 것들로 있지만, 자료를 모아놓지도 않았고, 따로 작성한 문서도 없어서 제가 푼 거 중에 기억나는 문제들로 writeup을 작성했습니다.&lt;&#x2F;p&gt;
+&lt;p&gt;많이 푼 만큼 아쉬웠던 대회였지만, 좋은 팀원들을 만나서 &lt;strong&gt;139팀에서 20등&lt;&#x2F;strong&gt;로 최종 마무리했습니다.&lt;&#x2F;p&gt;
+&lt;p&gt;이틀간 열심히 달려온 팀원분들께 감사인사를 올리면서 이 글을 마치겠습니다. 감사합니다.&lt;&#x2F;p&gt;
+&lt;div &gt;
+  &lt;img src=&quot;&amp;#x2F;2024-fiesta-result.png&quot; alt=&quot;결과&quot;&gt;
+  
+&lt;&#x2F;div&gt;</content>
+        
+    </entry>
+</feed>

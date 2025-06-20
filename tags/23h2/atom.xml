@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - 23h2</title>
+    <link href="https://kafu.dev/tags/23h2/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://kafu.dev"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-01-12T00:00:00+00:00</updated>
+    <id>https://kafu.dev/tags/23h2/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Windows 11에서 Internet Explorer 켜기</title>
+        <published>2025-01-12T00:00:00+00:00</published>
+        <updated>2025-01-12T00:00:00+00:00</updated>
+        <author>
+          <name>Catry</name>
+        </author>
+        <link rel="alternate" href="https://kafu.dev/blog/win-ie-open/" type="text/html"/>
+        <id>https://kafu.dev/blog/win-ie-open/</id>
+        
+        <content type="html">&lt;p&gt;Windows 11에서는 기본적으로 Internet Explorer를 지원하지 않습니다.&lt;&#x2F;p&gt;
+&lt;p&gt;이로 인해, 사용자가 Internet Explorer를 실행하려고 시도하면 자동으로 Microsoft Edge로 전환되는 경우가 많습니다.&lt;&#x2F;p&gt;
+&lt;p&gt;그러나 오늘 소개할 방법을 통해 Internet Explorer를 다시 실행할 수 있습니다.&lt;&#x2F;p&gt;
+&lt;p&gt;먼저, &lt;code&gt;cmd.exe&lt;&#x2F;code&gt;를 실행한 후, 아래 명령어를 입력하세요.&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;cli&quot; style=&quot;background-color:#282828;color:#fdf4c1aa;&quot; class=&quot;language-cli &quot;&gt;&lt;code class=&quot;language-cli&quot; data-lang=&quot;cli&quot;&gt;&lt;span&gt;C:\Users\COM-AO&amp;gt;hh &amp;quot;C:\Users\COM-AO\Documents\temp.log&amp;quot;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;&lt;code&gt;temp.log&lt;&#x2F;code&gt;와 같은 아무런 파일의 위치를 입력해주시면 됩니다.&lt;&#x2F;p&gt;
+&lt;div &gt;
+  &lt;img src=&quot;&amp;#x2F;2025-ie-01.png&quot; alt=&quot;IE 사진&quot;&gt;
+  
+&lt;&#x2F;div&gt;
+&lt;p&gt;위 사진과 같이 파일 다운로드를 받을 거냐라는 문구가 나옵니다. 거기서 &lt;code&gt;위험성&lt;&#x2F;code&gt; 버튼을 누르면,&lt;&#x2F;p&gt;
+&lt;p&gt;따란!!! &lt;strong&gt;Internet Explorer&lt;&#x2F;strong&gt; 프로그램이 정상적으로 실행이 됩니다.&lt;&#x2F;p&gt;
+&lt;div &gt;
+  &lt;img src=&quot;&amp;#x2F;2025-ie-02.png&quot; alt=&quot;IE 사진 2&quot;&gt;
+  
+&lt;&#x2F;div&gt;
+&lt;ul&gt;
+&lt;li&gt;Windows 11 23H2에서 실행되는 모습&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>

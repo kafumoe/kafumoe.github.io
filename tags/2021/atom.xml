@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - 2021</title>
+    <link href="https://kafu.dev/tags/2021/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://kafu.dev"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2021-11-20T14:00:00+00:00</updated>
+    <id>https://kafu.dev/tags/2021/atom.xml</id>
+    <entry xml:lang="en">
+        <title>2021 성균관대와 함께하는 진로 멘토링</title>
+        <published>2021-11-20T14:00:00+00:00</published>
+        <updated>2021-11-20T14:00:00+00:00</updated>
+        <author>
+          <name>Catry</name>
+        </author>
+        <link rel="alternate" href="https://kafu.dev/blog/2021-skku-mentoring/" type="text/html"/>
+        <id>https://kafu.dev/blog/2021-skku-mentoring/</id>
+        
+        <content type="html">&lt;h1 id=&quot;keompyuteoggyhyugwa-yi-jjirowa-ggyhyugwajjeon&quot;&gt;[컴퓨터교육과]의 진로와 교육과정&lt;&#x2F;h1&gt;
+&lt;p&gt;컴퓨터교육과 = 정보기술공학 + 교육&lt;&#x2F;p&gt;
+&lt;p&gt;사범대학의 목적성에 따르는 교사로의 진출과 정보기술관련 전문개발자로의 진출 등 폭넓은 진로&lt;&#x2F;p&gt;
+&lt;p&gt;교육과정도 이에 맞게 전문직업인형, 교사진로형으로 로드맵 구성&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;ggyhyugwajjeon-gubbu&quot;&gt;교육과정 구분&lt;&#x2F;h1&gt;
+&lt;ol&gt;
+&lt;li&gt;전공과목&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;전공코어는 졸업을 위해 반드시 이수해야 하는 과목으로, 컴퓨터 관련 기초적인 이론부터 전문적인 내용의 과목, 교육과 관련한 과목으로 일어져 있다.&lt;&#x2F;p&gt;
+&lt;p&gt;전공심화는 자신의 진로나 흥미에 따라서 선택하는 과목으로, 객체지향 &#x2F; 증강현실 등이 있다.&lt;&#x2F;p&gt;
+&lt;p&gt;기본이수과목은 사범대학에 포함된 학과마다 이수해야 하는 과목으로, 21학번 기준 9과목이 있다.&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;교직과목&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;교직이론, 교직소양, 교육실습으로 이뤄져 있는 과목으로 사범대학생으로서 반드시 이수해야 하는 교직 관련 과목이다.&lt;&#x2F;p&gt;
+&lt;p&gt;이외에 교육봉사활동 60시간, 교직인적성검사, 다양한 활동을 이수해야 한다.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;ggyhyugwajjeon-roddemaeb&quot;&gt;교육과정 로드맵&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;1학년&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;코어: 기본프로그래밍 &#x2F; 컴퓨터교육개론 &#x2F; 인터넷윤리&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;2학년&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;코어: 자료구조 &#x2F; 논리회로 &#x2F; 리눅스 &#x2F; 피지컬 컴퓨팅&lt;&#x2F;p&gt;
+&lt;p&gt;심화: 객체지향 &#x2F; 데이터과학 &lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;3학년&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;코어: 데이터베이스 &#x2F; 컴퓨터구조 &#x2F; 운영체제 &#x2F; 알고리즘 &lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;4학년&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;코어: 인공지능&lt;&#x2F;p&gt;
+&lt;p&gt;심화: 컴퓨터보안 &#x2F; 정보시스템&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;inggonjineung-sw-ggyhyu-haekeoton&quot;&gt;인공지능 SW-교육 해커톤&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;인공지능을 활용하여 교육에 도움이 되는 서비스를 제작하는 해커톤&lt;&#x2F;li&gt;
+&lt;li&gt;기존에도 여러 해커톤이 열렸지만 처음으로 공식으로 주최한 대규모의 해커톤&lt;&#x2F;li&gt;
+&lt;li&gt;총 750만원의 상금과 한국인터넷정보학회 출전권 부여&lt;&#x2F;li&gt;
+&lt;li&gt;1박 2일 동안 동기들과 밤새 토론하고 직접 서비스를 구현하여 발표하는 실력 향상의 기회&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;hangguinteoheajjeonbohaghoe-haekeoton&quot;&gt;한국인터넷정보학회 해커톤&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;SW사업대학들과 진행하는 한국인터넷정보학회 주최 해커톤&lt;&#x2F;li&gt;
+&lt;li&gt;네이버 클로바, LG 유플러스의 후원&lt;&#x2F;li&gt;
+&lt;li&gt;네이버에서 진행하는 수준 높은 인공지능 강연&lt;&#x2F;li&gt;
+&lt;li&gt;다른 대학교 학생들과 팀을 이뤄 아이디어 해커톤 진행&lt;&#x2F;li&gt;
+&lt;li&gt;2박 3일간 강원도 하이원리조트에서 먹고 자며 각자의 재밌는 아이디어를 공유하는 해커톤&lt;&#x2F;li&gt;
+&lt;li&gt;성균관대 사범대학 인공지능 SW-교육 해커톤에서 수상한 학생들이 좋은 성과를 이뤄냄&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;cmd-haghoe&quot;&gt;CMD 학회&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;컴퓨터교육과 내의 유일한 프로그래밍 동아리&lt;&#x2F;li&gt;
+&lt;li&gt;다양한 언어와 주제에 대한 스터디 운영&lt;&#x2F;li&gt;
+&lt;li&gt;팀을 꾸려 프로젝트 수행 실전경험을 기를 수 있음&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;cmd-hwalddon&quot;&gt;CMD 활동&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;정규세션&lt;&#x2F;li&gt;
+&lt;li&gt;스터디&lt;&#x2F;li&gt;
+&lt;li&gt;프로젝트&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;jjeonggysessyeo&quot;&gt;정규세션&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;IT 이슈와 기술등을 포함한 정보를 함께 공유하는 시간&lt;&#x2F;li&gt;
+&lt;li&gt;간단하게 3~5명 정도 조를 구성하여 매주 돌아가면서 발표&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;jjeonggy-sessyeo-yesi&quot;&gt;정규 세션 예시&lt;&#x2F;h3&gt;
+&lt;p&gt;이론 + 간단한 실습 또는 퀴즈로 구성함&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;jjeonggy-sessyeo-jujeddeu&quot;&gt;정규 세션 주제들&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;방학 중&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;ol&gt;
+&lt;li&gt;github 사용법&lt;&#x2F;li&gt;
+&lt;li&gt;자료구조 총정리&lt;&#x2F;li&gt;
+&lt;li&gt;시간복잡도와 그 예시&lt;&#x2F;li&gt;
+&lt;li&gt;공개키 암호, 대칭키 암호&lt;&#x2F;li&gt;
+&lt;li&gt;운영체제의 역할&lt;&#x2F;li&gt;
+&lt;li&gt;CPU와 GPU&lt;&#x2F;li&gt;
+&lt;li&gt;캐시와 레지스터&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;ul&gt;
+&lt;li&gt;학기 중&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;ol&gt;
+&lt;li&gt;보다 편리한 코딩 즐기기&lt;&#x2F;li&gt;
+&lt;li&gt;WEB으로부터 정보 얻기&lt;&#x2F;li&gt;
+&lt;li&gt;Programming Paradigm 정복하기&lt;&#x2F;li&gt;
+&lt;li&gt;인공지능 및 최신 기술 즐기기&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h1 id=&quot;sseteodi-unhyeon&quot;&gt;스터디 운영&lt;&#x2F;h1&gt;
+&lt;ol&gt;
+&lt;li&gt;웹, 인공지능, 게임 엔진 등 원하는 주제의 스터디 진행&lt;&#x2F;li&gt;
+&lt;li&gt;매주 스터디 시간 전까지 맡은 부분 공부해오고 발표&lt;&#x2F;li&gt;
+&lt;li&gt;세션에 따라 과제물 제출&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;sseteodi-sogga-hwe-peuronteuendde-sseteodi&quot;&gt;스터디 소개: 웹 프론트엔드 스터디&lt;&#x2F;h2&gt;
+&lt;p&gt;웹 강의들 시청하며 스스로 공부&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Html, Css, JavaScript 등의 언어를 익히기&lt;&#x2F;li&gt;
+&lt;li&gt;리액트 사용해보기&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;선택강의들 분배하고 공부해서 발표&lt;&#x2F;p&gt;
+&lt;p&gt;클론코딩, 영화 웹서비스 만들기 등의 실습&lt;&#x2F;p&gt;
+&lt;p&gt;공부한 기록을 남는 방법: 깃허브, velog&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;peurojjeteu-jjihaeng&quot;&gt;프로젝트 진행&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;마음이 맞는 부원 찾기&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;ol&gt;
+&lt;li&gt;하고 싶은 주제를 다루는 팀원을 찾아 조를 짠다.&lt;&#x2F;li&gt;
+&lt;li&gt;그 후 회의를 통해 세부적인 목표를 정한다.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;ul&gt;
+&lt;li&gt;일정 세우기&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;ol&gt;
+&lt;li&gt;11주간 진행할 일정을 세부적으로 작성한다.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;ul&gt;
+&lt;li&gt;프로젝트 시작&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;ol&gt;
+&lt;li&gt;정해진 목표에 따라 프로젝트를 열심히 진행한다.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h3 id=&quot;gita&quot;&gt;기타&lt;&#x2F;h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Notion 활용&lt;&#x2F;li&gt;
+&lt;li&gt;관심 분야가 같은 학우들을 만나 정규 과정 외에도 다양한 사이드 스터디와 프로젝트를 진행하고 공모전 등 대회에도 진출&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;q-a&quot;&gt;Q&amp;amp;A&lt;&#x2F;h1&gt;
+&lt;p&gt;Q. 컴퓨터교육과랑 컴퓨터공학과는 무슨 차이가 있나요?
+A. 컴퓨터교육과, 컴퓨터공학과는 많이 다릅니다, 다른 점에서는 컴퓨터교육과에서는 교직 이수가 포함 되어 있지만 컴퓨터 공학과에서는 포함 되어 있지 않습니다.&lt;&#x2F;p&gt;
+&lt;p&gt;Q. 문과에서도 들어갈 수 있나요?&lt;&#x2F;p&gt;
+&lt;p&gt;A. 네, 가능합니다.&lt;&#x2F;p&gt;
+&lt;p&gt;Q. 컴퓨팅 언어로는 뭐가 있나요?&lt;&#x2F;p&gt;
+&lt;p&gt;A. C, 파이썬, 자바가 있습니다. C는 절차지향, 자바는 객체지향 이고 파이썬은 머신러닝이나 데이터 베이스에 사용되는 언어입니다. 그리고 처음 접해보는 사람이면, 스크래치로 입문하는 것이 좋습니다. 그러나 컴퓨팅 언어를 접하고 싶다면 C, 파이선을 추천합니다.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;이렇게 하여 성균관대 진로 멘토링을 끝났는데,&lt;&#x2F;p&gt;
+&lt;p&gt;사전 질문 중에 저의 질문이 나오지 않아서 아쉬웠지만 컴퓨터교육과가 있다는 것을 알게 해주었고 괜찮은 학과인 거 같았습니다. &lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
